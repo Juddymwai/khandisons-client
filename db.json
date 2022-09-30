@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "position": "Member",
+      "first_name": "Brian",
+      "last_name": "Wangila",
+      "email": "brian@gmail.com",
+      "is_developer": true
+    },
+    {
+      "first_name": "dfd",
+      "last_name": "dfdf",
+      "email": "ffd@gmail.com",
+      "position": "sdsdsd",
+      "id": 2
+    },
+    {
+      "first_name": "jhjhjhjh",
+      "last_name": "jhhjjh",
+      "email": "jhjhhj@gmail.com",
+      "position": "weewewe",
+      "id": 3
+    },
+    {
+      "first_name": "Judy",
+      "last_name": "Mukami",
+      "email": "jay@gmail.com",
+      "position": "HR",
+      "id": 4
+    },
+    {
+      "first_name": "ghhghg",
+      "last_name": "ghhhg",
+      "email": "hghgh@gmail.com",
+      "position": "ghhghg",
+      "id": 5
+    }
+  ]
+}
